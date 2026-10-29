@@ -1,0 +1,3 @@
+﻿  EX2.cpp
+C:\Users\USER\OneDrive - Universiti Teknikal Malaysia Melaka\PROGRAMMING\BITP1113-Week04\Week04Lab\Exercise2_conditions\EX2.cpp(18,13): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Exercise2_conditions.vcxproj -> C:\Users\USER\OneDrive - Universiti Teknikal Malaysia Melaka\PROGRAMMING\BITP1113-Week04\Week04Lab\x64\Debug\Exercise2_conditions.exe

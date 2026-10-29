@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Exercise2_conditions/Exercise2_conditions.vcxproj" Id="f93668b4-bf7a-4ab8-a3c2-1aa78005daef" />
+  <Project Path="Week04Lab/Week04Lab.vcxproj" Id="1998c887-66b3-4b1c-9d06-9feabbcd8937" />
+</Solution>
