@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{33AA3F9F-C8FB-4A4D-ADC7-41A37BE965ED}|Exercise6_Library\\Exercise6_Library.vcxproj|C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Exercise6_Library\\EX6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33AA3F9F-C8FB-4A4D-ADC7-41A37BE965ED}|Exercise6_Library\\Exercise6_Library.vcxproj|solutionrelative:Exercise6_Library\\EX6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0F42E8-5125-4128-994A-7FCF86F1F83C}|Exercise5_Hostel\\Exercise5_Hostel.vcxproj|C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Exercise5_Hostel\\EX5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C0F42E8-5125-4128-994A-7FCF86F1F83C}|Exercise5_Hostel\\Exercise5_Hostel.vcxproj|solutionrelative:Exercise5_Hostel\\EX5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302E1201-433C-47FE-9D09-24F446DB96CF}|Exercise4_Toll\\Exercise4_Toll.vcxproj|C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Week04Lab\\EX4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{302E1201-433C-47FE-9D09-24F446DB96CF}|Exercise4_Toll\\Exercise4_Toll.vcxproj|solutionrelative:Week04Lab\\EX4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFEDA35-2E41-494B-A1B2-1A1455380074}|Exercise3_Parcel\\Exercise3_Parcel.vcxproj|C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Exercise3_Parcel\\EX3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9FFEDA35-2E41-494B-A1B2-1A1455380074}|Exercise3_Parcel\\Exercise3_Parcel.vcxproj|solutionrelative:Exercise3_Parcel\\EX3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F93668B4-BF7A-4AB8-A3C2-1AA78005DAEF}|Exercise2_conditions\\Exercise2_conditions.vcxproj|C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Exercise2_conditions\\EX2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F93668B4-BF7A-4AB8-A3C2-1AA78005DAEF}|Exercise2_conditions\\Exercise2_conditions.vcxproj|solutionrelative:Exercise2_conditions\\EX2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,21 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EX6.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Exercise6_Library\\EX6.cpp",
+              "RelativeDocumentMoniker": "Exercise6_Library\\EX6.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Exercise6_Library\\EX6.cpp",
+              "RelativeToolTip": "Exercise6_Library\\EX6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-30T08:18:01.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EX5.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Exercise5_Hostel\\EX5.cpp",
+              "RelativeDocumentMoniker": "Exercise5_Hostel\\EX5.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Exercise5_Hostel\\EX5.cpp",
+              "RelativeToolTip": "Exercise5_Hostel\\EX5.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-30T07:59:50.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EX4.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Week04Lab\\EX4.cpp",
+              "RelativeDocumentMoniker": "Week04Lab\\EX4.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Week04Lab\\EX4.cpp",
+              "RelativeToolTip": "Week04Lab\\EX4.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-30T07:53:02.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EX3.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Exercise3_Parcel\\EX3.cpp",
+              "RelativeDocumentMoniker": "Exercise3_Parcel\\EX3.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Exercise3_Parcel\\EX3.cpp",
+              "RelativeToolTip": "Exercise3_Parcel\\EX3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T04:05:47.859Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "EX2.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Exercise2_conditions\\EX2.cpp",
               "RelativeDocumentMoniker": "Exercise2_conditions\\EX2.cpp",
               "ToolTip": "C:\\Users\\USER\\OneDrive - Universiti Teknikal Malaysia Melaka\\PROGRAMMING\\BITP1113-Week04\\Week04Lab\\Exercise2_conditions\\EX2.cpp",
               "RelativeToolTip": "Exercise2_conditions\\EX2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-29T03:35:06.63Z",
               "EditorCaption": ""

@@ -1,0 +1,20 @@
+﻿#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+int main() {
+	double ParcelWeight, TotalAmount;
+	int CourierCharges = 0, Surcharge = 0;
+
+
+	cout << "Enter the parcel weight in kg: ";
+	cin >> ParcelWeight;
+	if (ParcelWeight <= 2)
+		CourierCharges = 8;
+	else
+	    CourierCharges = 13;
+	TotalAmount = CourierCharges + Surcharge;
+	cout << "Total amount to be paid: $" << fixed << setprecision(2) << TotalAmount << endl;
+	return 0;
+}

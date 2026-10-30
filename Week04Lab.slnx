@@ -4,5 +4,9 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="Exercise2_conditions/Exercise2_conditions.vcxproj" Id="f93668b4-bf7a-4ab8-a3c2-1aa78005daef" />
+  <Project Path="Exercise3_Parcel/Exercise3_Parcel.vcxproj" Id="9ffeda35-2e41-494b-a1b2-1a1455380074" />
+  <Project Path="Exercise4_Toll/Exercise4_Toll.vcxproj" Id="302e1201-433c-47fe-9d09-24f446db96cf" />
+  <Project Path="Exercise5_Hostel/Exercise5_Hostel.vcxproj" Id="5c0f42e8-5125-4128-994a-7fcf86f1f83c" />
+  <Project Path="Exercise6_Library/Exercise6_Library.vcxproj" Id="33aa3f9f-c8fb-4a4d-adc7-41a37be965ed" />
   <Project Path="Week04Lab/Week04Lab.vcxproj" Id="1998c887-66b3-4b1c-9d06-9feabbcd8937" />
 </Solution>

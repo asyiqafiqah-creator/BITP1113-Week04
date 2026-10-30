@@ -1,0 +1,26 @@
+﻿#include <iostream>
+using namespace std;
+
+//BEGIN
+int main()
+{
+	//DECLARE EnterTime, LateEntry
+	double EnterTime;
+	bool LateEntry;
+
+	//DISPLAY "Enter the time of entry (in 24-hour format): "
+	cout << "Enter the time of entry (in 24-hour format): ";
+	//READ EnterTime
+	cin >> EnterTime;
+
+	//IF EnterTime >= 23.00 THEN
+	if (EnterTime >= 23.00) || (EnterTime < 6.00) ?
+	{
+		LateEntry = true;
+	}
+	else
+	{
+		LateEntry = false;
+	}
+
+}
